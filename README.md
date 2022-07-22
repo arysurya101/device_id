@@ -1,6 +1,6 @@
 # device_id
 
-plugin to get device id
+Flutter plugin to get Android and iOs device id
 
 ## Getting Started
 
